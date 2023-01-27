@@ -1,5 +1,6 @@
 {
 	"extends": "./.svelte-kit/tsconfig.json",
+	"ignoreDeprecations": "5.0",
 	"compilerOptions": {
 		"allowJs": true,
 		"checkJs": true,
